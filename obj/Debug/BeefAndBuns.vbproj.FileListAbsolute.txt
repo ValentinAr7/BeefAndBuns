@@ -1,0 +1,27 @@
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.vbprojResolveAssemblyReference.cache
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.frmLogin.resources
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.vbproj.GenerateResource.Cache
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\bin\Debug\BeefAndBuns.exe.config
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\bin\Debug\BeefAndBuns.exe
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\bin\Debug\BeefAndBuns.pdb
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\bin\Debug\BeefAndBuns.xml
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.frmOrder.resources
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.frmPayment.resources
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.frmReceipt.resources
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.Resources.resources
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.vbproj.CoreCompileInputs.cache
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.exe
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.xml
+H:\Unit 14 EDP\Project\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.pdb
+C:\College\Level 3 First Year\Unit 14 EDP\Project\Backups\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.vbproj.AssemblyReference.cache
+C:\College\Level 3 First Year\Unit 14 EDP\Project\Backups\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.vbproj.SuggestedBindingRedirects.cache
+C:\College\Level 3 First Year\Unit 14 EDP\Project\Backups\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.frmLogin.resources
+C:\College\Level 3 First Year\Unit 14 EDP\Project\Backups\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.frmOrder.resources
+C:\College\Level 3 First Year\Unit 14 EDP\Project\Backups\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.frmPayment.resources
+C:\College\Level 3 First Year\Unit 14 EDP\Project\Backups\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.frmReceipt.resources
+C:\College\Level 3 First Year\Unit 14 EDP\Project\Backups\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.Resources.resources
+C:\College\Level 3 First Year\Unit 14 EDP\Project\Backups\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.vbproj.GenerateResource.cache
+C:\College\Level 3 First Year\Unit 14 EDP\Project\Backups\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.vbproj.CoreCompileInputs.cache
+C:\College\Level 3 First Year\Unit 14 EDP\Project\Backups\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.exe
+C:\College\Level 3 First Year\Unit 14 EDP\Project\Backups\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.xml
+C:\College\Level 3 First Year\Unit 14 EDP\Project\Backups\BeefAndBuns\BeefAndBuns\obj\Debug\BeefAndBuns.pdb
